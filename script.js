@@ -47,7 +47,7 @@ function playGame(){
     console.log("the score is human: " + humanScore + " computer: " + computerScore + " - you win!");
     }
     else{
-    console.log("the score is human: " + humanScore + " computer: " + computerScore + " - you win!");
+    console.log("the score is human: " + humanScore + " computer: " + computerScore + " - you lose!");
 
     }
 }  
